@@ -1,5 +1,5 @@
 const VerifyToken = ( req, res) => {
-    res.send()
+    res.send('test')
 }
 
 const ReceivedMessage = (req, res) => {
